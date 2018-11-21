@@ -14,6 +14,10 @@ public class MyCalculator{
             while(run_again != "N") {
         System.out.println('\n'+"Which operation do you want to run? Type A for Addition, S for Substraction, M for Multiplication or D for Division");
         String letter = scan.next();
+
+ public static void main(String[] args){
+
+
   }
 
 }
