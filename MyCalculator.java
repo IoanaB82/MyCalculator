@@ -10,4 +10,7 @@ public class MyCalculator{
         String letter = scan.next();
   }
   
+  }
+
+
 }
